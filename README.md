@@ -1,10 +1,10 @@
 # Java To-Do List
 
-A simple console-based to-do list application written in java.
+A simple console-based to-do list application written in Java.
 
 # Overview
 
-This project provides a basic to-do list management system where users can add tasks, remove tasks, mark tasks as completed, mark tassks as in progress, and view their to-do list. 
+This project provides a basic to-do list management system where users can add tasks, remove tasks, mark tasks as completed, mark tasks as in progress, and view their to-do list. 
 
 # Features
 
@@ -44,8 +44,8 @@ To run this project locally, follow these steps:
 5. Exiting the Application:
 * Enter `5` and press Enter.
 
-6. Viewing your To-Do List
-Your to-do list will be displayed after each action, showing the current status of each task, including name, description, and whether it's completed or in progress.
+6. Viewing your To-Do List:
+* Your to-do list will be displayed after each action, showing the current status of each task, including name, description, and whether it's completed or in progress.
 
 # License
 
