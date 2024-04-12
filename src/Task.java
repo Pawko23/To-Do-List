@@ -1,5 +1,3 @@
-package project;
-
 public class Task {
     private String name;
     private boolean completed;
@@ -11,8 +9,6 @@ public class Task {
         this.completed = false;
     }
 
-
-    // Without it, sout prints Task object informations as the default String value
     @Override
     public String toString() {
         String temp = "";
